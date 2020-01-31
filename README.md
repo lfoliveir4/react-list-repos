@@ -1,4 +1,4 @@
-React List Repos and Details 
+React List Repos and Details - Go Stack 9
 
 
 Deploy:
